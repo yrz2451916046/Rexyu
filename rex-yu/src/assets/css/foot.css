@@ -1,0 +1,29 @@
+.foot-bg {
+    width: 100%;
+    height: 10rem;
+    background: rgb(50, 65, 87)
+}
+
+.foot-bg ul {
+    width: 100%;
+    height: 4rem;
+    float: left;
+    margin-top: 3rem;
+}
+
+.foot-bg ul p {
+    width: 30rem;
+    height: 2rem;
+    font-size: 0.8rem;
+    margin: 0 auto;
+    line-height: 2rem;
+    text-align: center;
+    color: rgb(166, 190, 241);
+}
+
+.foot-bg ul p a {
+    text-decoration: none;
+    cursor: pointer;
+    color: rgb(51, 103, 214);
+    _opacity: 0.6;
+}
